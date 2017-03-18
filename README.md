@@ -6,7 +6,7 @@ UPF, BARCELONA
 
 This is a task performed for MIR assignment Query by humming in UPF.
 
-The folder QBH_Task contains MTALAB code to run the whole experiment. There are two datasets also included with both midi and wav files.
+The folder QBH_Task contains MATLAB code to run the whole experiment. There are two datasets also included with both midi and wav files.
 Run the DemoBasline code to know the results. 
 
 In addition to that since IOACAS didnt have a pitch vector for wav files, I have written a python code to convery the wav queries to pitch vectors and store it in a seperate file. This is a generalized code which can be used for any dataset. Also remember to install essentia and vamp on your PC.
